@@ -1,6 +1,7 @@
 """
 Implementation of Partition (Grid and Block) Attention
 """
+
 from typing import Tuple, Type
 
 import torch

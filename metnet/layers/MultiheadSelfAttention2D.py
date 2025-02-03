@@ -1,6 +1,7 @@
 """
 MultiHeaded 2D Self Attention  Implementation
 """
+
 from typing import Type
 
 import torch
