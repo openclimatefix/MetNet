@@ -1,6 +1,7 @@
 """
 Squeeze-and-Excitation net implementation
 """
+
 from typing import Type
 
 import torch
